@@ -171,7 +171,7 @@ model = load_model('model.h5')
 # define the expected input shape for the model
 input_w, input_h = 416, 416
 # define our new photo
-photo_filename = 'bear.jpg'
+photo_filename = 'bears.jpg'
 # load and prepare image
 image, image_w, image_h = load_image_pixels(photo_filename, (input_w, input_h))
 # make prediction
