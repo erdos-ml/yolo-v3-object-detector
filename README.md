@@ -6,7 +6,7 @@ The code is based pretty much in it's entirety on the GitHub repository
 keras-yolo3 created by the user experiencor.
 
 I made some minor additions needed in order to be able to run it in my computer.
-I've also added a few .jpg images to use use to make predictions.
+I've also added a few example jpg images you can use to test out the model.
 
 
 
