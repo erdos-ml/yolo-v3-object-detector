@@ -28,7 +28,8 @@ I made some minor additions needed in order to be able to run it in my computer.
 
    **ii.** Download from Google Images an image of one of the classes (e.g., an
       image of an airplane or a sandwich) and save it in the same directory as
-      the script. (Make sure the image is in .jpg format).
+      the script. Make sure the image is in .jpg format. Also make sure that the image is in a size close to the 416x416 size expected by the model.
+      Anything between 400 and 700 should work just fine.
 
      **iii.** Look for the **photo_filename** variable in the yolo_predict.py script
           and change its value to a string with the name of the image you
