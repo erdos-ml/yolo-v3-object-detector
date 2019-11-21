@@ -38,3 +38,6 @@ I made some minor additions needed in order to be able to run it in my computer.
 
 The outputs of the script will be your image with a bounding box around the
 object along with the label and confidence score.
+
+
+**That's all there is to it!**
