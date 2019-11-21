@@ -23,18 +23,18 @@ I made some minor additions needed in order to be able to run it in my computer.
 3. Use the yolo_predict.py script to make predictions on individual images. To
    do this correctly do the following steps:
 
-   i. Look at the **labels** variable in the script to see all the classes
+   **i.** Look at the **labels** variable in the script to see all the classes
       which the model was trained to predict.
 
-   ii. Download from Google Images an image of one of the classes (e.g., an
+   **ii.** Download from Google Images an image of one of the classes (e.g., an
       image of an airplane or a sandwich) and save it in the same directory as
       the script. (Make sure the image is in .jpg format).
 
-     iii. Look for the **photo_filename** variable in the yolo_predict.py script
+     **iii.** Look for the **photo_filename** variable in the yolo_predict.py script
           and change its value to a string with the name of the image you
           downloaded (e.g., photo_filename = 'sandwich.jpg').
 
-     iv. Run the yolo_predict.py script.
+     **iv.** Run the yolo_predict.py script.
 
 The outputs of the script will be your image with a bounding box around the
 object along with the label and confidence score.
