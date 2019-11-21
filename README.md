@@ -10,7 +10,7 @@ I made some minor additions needed in order to be able to run it in my computer.
 
 
 
-###Instructions to use the model:
+### Instructions to use the model:
 
 1. Download the pretrained weights to the model using the following link:
 
