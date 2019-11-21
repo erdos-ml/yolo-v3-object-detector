@@ -1,7 +1,7 @@
 # yolo-v3-object-detector
 
 This repository contains the code to create and run a pretrained object
-detection model named YOLOv3. the model is trained on the MSCOCO dataset.
+detection model named YOLOv3. The model is trained on the MSCOCO dataset.
 The code is based pretty much in it's entirety on the GitHub repository
 keras-yolo3 created by the user experiencor.
 
