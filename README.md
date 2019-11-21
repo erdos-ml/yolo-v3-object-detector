@@ -17,7 +17,7 @@ I've also added a few example jpg images you can use to test out the model.
    <a href="https://pjreddie.com/media/files/yolov3.weights">YOLOv3
    Pre-trained Model Weights (yolov3.weights) (237 MB)</a>
 
-2. Run the yolo_prepare_model.py script in order to create the model.h5 file
+2. Run the yolo_prepare_model.py script in order to create the **model.h5** file
    which will contain the model.
 
 3. Use the yolo_predict.py script to make predictions on individual images. To
